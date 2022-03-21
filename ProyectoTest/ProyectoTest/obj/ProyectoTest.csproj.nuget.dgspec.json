@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/almasso/Documents/Git/Grupo13/ProyectoTest/ProyectoTest/ProyectoTest.csproj": {}
+    "C:\\Users\\fampe\\Desktop\\Git\\Grupo13\\Grupo13\\ProyectoTest\\ProyectoTest\\ProyectoTest.csproj": {}
   },
   "projects": {
-    "/Users/almasso/Documents/Git/Grupo13/ProyectoTest/ProyectoTest/ProyectoTest.csproj": {
+    "C:\\Users\\fampe\\Desktop\\Git\\Grupo13\\Grupo13\\ProyectoTest\\ProyectoTest\\ProyectoTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/almasso/Documents/Git/Grupo13/ProyectoTest/ProyectoTest/ProyectoTest.csproj",
+        "projectUniqueName": "C:\\Users\\fampe\\Desktop\\Git\\Grupo13\\Grupo13\\ProyectoTest\\ProyectoTest\\ProyectoTest.csproj",
         "projectName": "ProyectoTest",
-        "projectPath": "/Users/almasso/Documents/Git/Grupo13/ProyectoTest/ProyectoTest/ProyectoTest.csproj",
-        "packagesPath": "/Users/almasso/.nuget/packages/",
-        "outputPath": "/Users/almasso/Documents/Git/Grupo13/ProyectoTest/ProyectoTest/obj/",
+        "projectPath": "C:\\Users\\fampe\\Desktop\\Git\\Grupo13\\Grupo13\\ProyectoTest\\ProyectoTest\\ProyectoTest.csproj",
+        "packagesPath": "C:\\Users\\fampe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\fampe\\Desktop\\Git\\Grupo13\\Grupo13\\ProyectoTest\\ProyectoTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/almasso/.config/NuGet/NuGet.Config"
+          "C:\\Users\\fampe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.200/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
