@@ -6,7 +6,7 @@ namespace ProyectoTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Editado por Alex");
+            Console.WriteLine("Editado por Raúl");
         }
     }
 }
