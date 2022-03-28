@@ -3,7 +3,11 @@
     <Files>
       <File FileName="ProyectoTest/Program.cs" Line="12" Column="44" />
       <File FileName="ProyectoTest/Alex.cs" Line="4" Column="1" />
+<<<<<<< HEAD
       <File FileName="ProyectoTest/PruebaBranches.cs" Line="12" Column="1" />
+=======
+      <File FileName="ProyectoTest/PruebaBranches.cs" Line="8" Column="45" />
+>>>>>>> addColor
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
